@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31" width="31" height="31">
+	<title>footer</title>
+	<defs>
+		<image width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA15JREFUWEfFV9Fx2zAMBblA3QnqTFB3gqQDWJAmaDJBkgmaTFBngjoTyHQGqD1BkwnqDZoMIKL3eKCOpmVbjn1Xfkok8QA8PICG/vMyh9iv63pkrT03xpQ4JyIXen5ljFl571fW2lnTNMuqql773N0LwHw+vxSR70Q07HOpgpuKyH1VVatdZ3YCUI9/EtEou8QR0XP2bSAipTHmU/b9jpnvt4HYCkC9hvG4ltbayXg8nu3yqK7robX2kohuiOiD7n323n/tSksnAOfclIi+6eE3XLjPcA5KgUyIiCNPFMRaSjYAZJ6/eO/LfXncFZH5fH4jIj+2RWINgOb8t26G8Yu+bN4DAiQO6RSRWVmWVdy/BsA5B2J9JqI37/0oeg5gOFBVVU68vkVBzjmk4xoHrLVVTGkLIA19uiGNijHmqigK8ONdazabQS9QJStmPsMlLYDk55KZo8DQKQHUdX1hrf0VDKszAUBqJPU+uvn09FSKyOAY7+NdSZodM5cBQMLUN2YepPHVcgol6b2HxC7Uk3P99giuqBOh5Iwxz0VRQKw2lnPujoigqq/M/DEAcM4tiAgXBlQZgDZsRHTPzHfJJYFQInKd9IV4vFN80jRAF3IAwcAhAOAJEa1FLTm/cZ86LBq9FkD4ED08EAC2P1hrFyIyFBE4ECV4jdAJD1p7MQLHAFjzEoT13tdqrB+ApAQPToHqOzjULudcdGgnAJRizoEHZkYXa1dKmi4SHgpAq+pPzoHY/VqFighODSBVXO/9WYhAmjd8TLvfqQE45zBPQC9emHkUlXBgrf3bVQmnBFDXNewg/CjbwLe2FyRDyKv3/kvSCXcK0SEcSDtijHQLICVH2rNVYtFKIbFT9APNI8YuyPNN3qZVWfEbnAr7slmjJXs+D0SdhrHboiiC4WOXhh6DDqZqzBrDOOhsjGRJt2pb5jEA1DhacBhq8m67AQAH0M2S8XrCzLfvAaFhhyqG90RXVDunYuUDygXjWcil9/4KrbgPEPUaLbcVtW0p3fou0EsgUHGshm3MhDNjzKIoimWmmHgPnOvjBBNV7JA7x/q9TzOIVNM0k44XT59gPGqVbH0n7gUQrWjpYViBd7HddoF4QZS899M+74neAPIGpYwOwytexk3T4MWz6mM0vesf7Q6H7xZR+4IAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer">
+		<use id="linkedin" href="#img1" transform="matrix(1,0,0,1,-1,-1)"/>
+	</g>
+</svg>

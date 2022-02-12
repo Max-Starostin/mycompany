@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31" width="31" height="31">
+	<title>footer</title>
+	<defs>
+		<image width="34" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAzNJREFUWEfNWNFVGzEQXOkKwKkgpIJABTEN3PoqCKkgUAFQQZwKQio4yw3EVBBTQUgHpgCt8ubeyk+Rz6ez4QP98J5Pp5udnZ1dYeiNLPNGcNDBQNq2PbXWcghhaq2dhBDOiGhCRBtjzFpE8HclIq5pmqexgY4G0rbttKqqGwAYfbgxK+/9XdM0q9I7RSBt255VVfWtB8AjEa2JKI36lIjA0Mf0w2DIe3/dNA32965BIGDBWtsq9RRC+GutnXvvF0O0I31VVc1E5MoY816/vBGRZh87e4Esl8vLEMKPBP6diMybptmUaI7P27adWGuviOgm/maM+VLX9X1+Ri8QZeKXbn4WkekQrSVgSK+1Fjo5wV4RuciZ2QGiLwEEKuHFIBJ2UjBI03ma3h0gzjkg/6TIsXmvwFImVBedHrz3j30p1CB/Yw8EXNf1xTZl2WEQZ0zJHTPfjqQdgkbFdKuP+vjMOYczO82k+/5jJLKB6oBRjRHmYrF4SiqjCEQFjJI/SVnZAlHH/KO0Xdd1PR/BBly2e4eI4CsLjfR+qLyXy+VVCOGb7v2AvVsgfQ9HADk4lTgzC7or5y0Q5xyiYUTGzHDH4srKfJSmEq2gCODAjplnKZBYLT+Z+XIIRWL7KPEIGlrp7N57DwcdND7nHEztMxE9MPM0BYIXYTjFyDImdjAzc7GHJdWzYeZ3KZCgJ44BAnOCmMFI1+BQacrImplh64MrLWMAP4qR+IUXaiT6yTMzT47SyCsB2auRWDWg9rxErZbhUeWLd51z/VXzZnzkSGc9ipFBZ1W6opc8aZse9IJjxKq9Bm0BFdd5SNdWUi0cevCh+zXYcvfNWEGbHpxHEF3qrKXrQwZ8y8YOI1oJ+SSFsW7UcFRqCzrrxMkPY8b2BjBmZsVY9yIw+W1g1Mwao+qZ4m9F5HupmWWawxT/lYi2k95BU3zmnDC6bvrWy9S8dJ2M11IFgFRgYRCfHXyvScBgCoMddwN1stYhhHVs/fg9hHBqjMFYkM8zDyJyOSTmYrvO2AHFOaAhjQLA7avcffOv6LVhGkKYqSkheqTuWe/C+G/Awnu/KpVzevZoRobCfo1n/wBFJjVB2lfiNAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer">
+		<use id="facebook" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+	</g>
+</svg>
